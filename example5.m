@@ -7,6 +7,7 @@ clc; clear all; close all;
 % We are concerned about the flow from Kaosiung to Hangzhou city 
 % through arcs of 1 , 2, 9, 10 which we reorder as 1, 2, 3, 4 respectively and 
 % rename the source as 5 and Shanghai as 6, Wenzhou as 7 and Hangzhou as 8
+% hi babe
 
 
 source=5; target=8; 
